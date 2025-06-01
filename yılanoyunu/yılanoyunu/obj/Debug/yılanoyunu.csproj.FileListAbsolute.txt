@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\yılanoyunu\yılanoyunu\bin\Debug\yılanoyunu.exe.config
+C:\Users\ASUS\source\repos\yılanoyunu\yılanoyunu\bin\Debug\yılanoyunu.exe
+C:\Users\ASUS\source\repos\yılanoyunu\yılanoyunu\bin\Debug\yılanoyunu.pdb
+C:\Users\ASUS\source\repos\yılanoyunu\yılanoyunu\obj\Debug\yılanoyunu.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\yılanoyunu\yılanoyunu\obj\Debug\yılanoyunu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\yılanoyunu\yılanoyunu\obj\Debug\yılanoyunu.exe
+C:\Users\ASUS\source\repos\yılanoyunu\yılanoyunu\obj\Debug\yılanoyunu.pdb
